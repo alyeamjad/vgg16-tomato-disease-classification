@@ -1,4 +1,4 @@
-# vgg16-tomato-disease-classification
-This project focuses on classifying tomato leaf diseases using the VGG16 deep learning model. By analyzing a dataset of tomato leaf images, the VGG16 model is trained to accurately identify different diseases affecting tomato plants.
+# VGG16-Tomato-Disease-Classification
+This project aims to classify tomato leaf diseases using the VGG16 deep learning architecture. A dataset of tomato leaf images is utilized to train the model, enabling it to accurately detect and distinguish between various tomato plant diseases.
 
 
